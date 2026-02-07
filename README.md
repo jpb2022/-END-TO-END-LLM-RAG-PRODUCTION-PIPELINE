@@ -253,6 +253,7 @@ I’m always open to discussions on:
 ## 👤 Author
 
 **Er. Jitendra Kumar**
+---
 Data Scientist | AI Researcher
 M.Tech – IIT Kanpur
 B.Tech – NIT Surat
