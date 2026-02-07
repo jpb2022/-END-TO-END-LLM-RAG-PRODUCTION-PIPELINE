@@ -228,25 +228,38 @@ Ideal for enterprise AI assistants, knowledge bots, and internal search systems.
 
 ---
 
+Here is a **cleaner, more professional, and well-formatted rewritten version** of your Support & Author section – suitable for a polished GitHub README:
+
+---
+
 ## 🤝 Support & Contact
 
-For queries, collaboration, or guidance on implementing similar systems:
+If you have questions, need guidance, or are interested in collaboration on similar AI/LLM projects, feel free to reach out:
 
-📧 **Email:** [jitendraguptaaur@gmail.com](mailto:jitendraguptaaur@gmail.com)
+* 📧 **Email:** [jitendraguptaaur@gmail.com](mailto:jitendraguptaaur@gmail.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/jitendra-kumar-30a78216a/](https://www.linkedin.com/in/jitendra-kumar-30a78216a/)
+
+I’m always open to discussions on:
+
+* RAG-based LLM systems
+* AI product development
+* Research collaborations
+* Mentorship and technical consulting
 
 ---
 
-### ⭐ If you find this project helpful, please consider starring the repository!
-
----
+### ⭐ Support the Project
 
 ## 👤 Author
 
 **Er. Jitendra Kumar**
 Data Scientist | AI Researcher
-M.Tech – IIT Kanpur | B.Tech – NIT Surat
+M.Tech – IIT Kanpur
+B.Tech – NIT Surat
 
 
 
 
-Just let me know your goal 👍
+
+
+
